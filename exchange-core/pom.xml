@@ -39,7 +39,7 @@
         <dependency>
             <groupId>com.querydsl</groupId>
             <artifactId>querydsl-apt</artifactId>
-            <version>4.1.3</version>
+            <version>5.0.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>

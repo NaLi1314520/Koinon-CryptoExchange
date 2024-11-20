@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>bitrade-parent</artifactId>
-        <groupId>com.bizzan.bitrade</groupId >
+        <groupId>com.bizzan.bitrade</groupId>
         <version>1.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
@@ -80,7 +80,7 @@
         <dependency>
             <artifactId>spring-data-mongodb</artifactId>
             <groupId>org.springframework.data</groupId>
-            <version>1.10.10.RELEASE</version>
+            <version>4.2.11</version>
             <!--排除autoConfig-->
             <exclusions>
                 <exclusion>

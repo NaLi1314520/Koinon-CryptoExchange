@@ -51,11 +51,11 @@
 		<!-- spring -->
 		<spring-cloud.version>Edgware.RELEASE</spring-cloud.version>
 		<spring-boot_version>1.5.19.RELEASE</spring-boot_version>
-		<cloud_starter_version>4.2.0</cloud_starter_version>
+		<cloud_starter_version>4.3.0</cloud_starter_version>
 		<!--反序列化-->
 		<xstream_version>1.4.19</xstream_version>
 		<!-- 数据库连接 -->
-		<druid_version>1.1.22</druid_version>
+		<druid_version>1.2.12</druid_version>
 		<mysql.version>8.0.23</mysql.version>
 		<!-- commons包 -->
 		<commons-codec_version>1.10</commons-codec_version>

@@ -76,7 +76,7 @@
 		<logback-ext-spring_version>0.1.5</logback-ext-spring_version>
 		<!-- Test Libs -->
 		<junit_version>4.12</junit_version>
-		<shiro_version>1.7.0</shiro_version>
+		<shiro_version>2.1.0</shiro_version>
 		<netty_version>4.1.58.Final</netty_version>
 		<ehcache_version>2.6.11</ehcache_version>
 		<!--netty-->
